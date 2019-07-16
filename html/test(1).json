@@ -1,0 +1,40 @@
+{
+    "2018/06/14" : [["Saudi","Russia"]],
+    "2018/06/15" : [["Uruguay","Egypt"],["Morocco","Iran"]],
+    "2018/06/16" : [["Portugal","Spain"],["France","Australia"],["Argentina","Iceland"]],
+    "2018/06/17" : [["Peru","Denmark"],["Croatia","Nigeria"],["Costarica","Serbia"],["Mexico","Germany"]],
+    "2018/06/18" : [["Brazil","Switzerland"],["Korea","Sweden"],["Belgium","Panama"]],
+    "2018/06/19" : [["Tunisia","England"],["Japan","Columbia"],["Senegal","Poland"]],
+    "2018/06/20" : [["Uruguay","Saudi"],["Egypt","Russia"],["Morocco","Portugal"]],
+    "2018/06/21" : [["Iran","Spain"],["France","Peru"],["Australia","Denmark"]],
+    "2018/06/22" : [["Argentina","Croatia"],["Iceland","Nigeria"],["Costarica","Brazil"]],
+    "2018/06/23" : [["Serbia","Switzerland"],["Korea","Mexico"],["Belgium","Tunisia"]],
+    "2018/06/24" : [["Sweden","Germany"],["Panama","England"],["Japan","Senegal"]],
+    "2018/06/25" : [["Uruguay","Russia"],["Saudi","Egypt"],["Columbia","Poland"]],
+    "2018/06/26" : [["Spain","Morocco"],["Portugal","Iran"],["France","Denmark"],["Peru","Australia"]],
+    "2018/06/27" : [["Argentina","Nigeria"],["Croatia","Iceland"],["Korea","Germany"],["Mexico","Sweden"]],
+    "2018/06/28" : [["Switzerland","Costarica"],["Brazil","Serbia"],["Japan","Poland"],["Columbia","Senegal"]],
+    "2018/06/29" : [["Belgium","England"],["Tunisia","Panama"]],
+
+
+
+
+
+    "2018/06/30" : [["France","Argentina"]],
+    "2018/07/01" : [["Russia","Spain"],["Uruguay","Portugal"]],
+    "2018/07/02" : [["Croatia","Denmark"],["Brazil","Mexico"]],
+    "2018/07/03" : [["Sweden","Switzerland"],["Belgium","Japan"]],
+    "2018/07/04" : [["England","Columbia"]],
+
+
+
+
+    "2018/07/06" : [["France","Uruguay"]],
+    "2018/07/07" : [["Brazil","Belgium"],["England","Sweden"]],
+    "2018/07/08" : [["Croatia","Russia"]],
+
+    "2018/07/11" : [["France","Belgium"]],
+    "2018/07/12" : [["Croatia","England"]],
+    "2018/07/14" : [["Belgium","England"]],
+    "2018/07/15" : [["France","Croatia"]]
+}
